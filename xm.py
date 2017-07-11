@@ -137,7 +137,7 @@ def conexion():
  [-][-][-][-][-][-][-][-][-][-]                                                
  [-] Coded By : DeMoN	    [-]
  [-] Site : Guardiran.org   [-]
- [-] Tel : mrar1yan         [-]
+ [-] Tel : DarkCod3r        [-]
  [-][-][-][-][-][-][-][-][-][-]
  
 
